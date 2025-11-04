@@ -7,7 +7,13 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.0.8 LAB Exceptions input 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.0.9   LAB   Exceptions divide by zero", "3.0.9   LAB   Exceptions divide by zero\3.0.9   LAB   Exceptions divide by zero.vcxproj", "{25DCDE9B-A19E-4933-AD1E-286CEB3B6EDC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.1.8   LAB   Exceptions input validation", "3.1.8   LAB   Exceptions input validation\3.1.8   LAB   Exceptions input validation.vcxproj", "{C89A97AD-240D-44EB-8BE7-18EE08DB610D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.1.8   LAB   Exceptions input validation V1", "3.1.8   LAB   Exceptions input validation\3.1.8   LAB   Exceptions input validation.vcxproj", "{C89A97AD-240D-44EB-8BE7-18EE08DB610D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.1.8   LAB   Exceptions input validation V2", "3.1.8   LAB   Exceptions input validation V2\3.1.8   LAB   Exceptions input validation V2.vcxproj", "{73382798-783C-4362-BFB1-4C5A9CED27DD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.1.9   LAB   Exceptions catch block", "3.1.9   LAB   Exceptions catch block\3.1.9   LAB   Exceptions catch block.vcxproj", "{F35D66AD-3CE2-473F-91AB-48D009DEF24F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.1.10   LAB Exceptions simple checks", "3.1.10   LAB Exceptions simple checks\3.1.10   LAB Exceptions simple checks.vcxproj", "{91234FFF-A024-4513-99EE-AADADB4354D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +47,30 @@ Global
 		{C89A97AD-240D-44EB-8BE7-18EE08DB610D}.Release|x64.Build.0 = Release|x64
 		{C89A97AD-240D-44EB-8BE7-18EE08DB610D}.Release|x86.ActiveCfg = Release|Win32
 		{C89A97AD-240D-44EB-8BE7-18EE08DB610D}.Release|x86.Build.0 = Release|Win32
+		{73382798-783C-4362-BFB1-4C5A9CED27DD}.Debug|x64.ActiveCfg = Debug|x64
+		{73382798-783C-4362-BFB1-4C5A9CED27DD}.Debug|x64.Build.0 = Debug|x64
+		{73382798-783C-4362-BFB1-4C5A9CED27DD}.Debug|x86.ActiveCfg = Debug|Win32
+		{73382798-783C-4362-BFB1-4C5A9CED27DD}.Debug|x86.Build.0 = Debug|Win32
+		{73382798-783C-4362-BFB1-4C5A9CED27DD}.Release|x64.ActiveCfg = Release|x64
+		{73382798-783C-4362-BFB1-4C5A9CED27DD}.Release|x64.Build.0 = Release|x64
+		{73382798-783C-4362-BFB1-4C5A9CED27DD}.Release|x86.ActiveCfg = Release|Win32
+		{73382798-783C-4362-BFB1-4C5A9CED27DD}.Release|x86.Build.0 = Release|Win32
+		{F35D66AD-3CE2-473F-91AB-48D009DEF24F}.Debug|x64.ActiveCfg = Debug|x64
+		{F35D66AD-3CE2-473F-91AB-48D009DEF24F}.Debug|x64.Build.0 = Debug|x64
+		{F35D66AD-3CE2-473F-91AB-48D009DEF24F}.Debug|x86.ActiveCfg = Debug|Win32
+		{F35D66AD-3CE2-473F-91AB-48D009DEF24F}.Debug|x86.Build.0 = Debug|Win32
+		{F35D66AD-3CE2-473F-91AB-48D009DEF24F}.Release|x64.ActiveCfg = Release|x64
+		{F35D66AD-3CE2-473F-91AB-48D009DEF24F}.Release|x64.Build.0 = Release|x64
+		{F35D66AD-3CE2-473F-91AB-48D009DEF24F}.Release|x86.ActiveCfg = Release|Win32
+		{F35D66AD-3CE2-473F-91AB-48D009DEF24F}.Release|x86.Build.0 = Release|Win32
+		{91234FFF-A024-4513-99EE-AADADB4354D4}.Debug|x64.ActiveCfg = Debug|x64
+		{91234FFF-A024-4513-99EE-AADADB4354D4}.Debug|x64.Build.0 = Debug|x64
+		{91234FFF-A024-4513-99EE-AADADB4354D4}.Debug|x86.ActiveCfg = Debug|Win32
+		{91234FFF-A024-4513-99EE-AADADB4354D4}.Debug|x86.Build.0 = Debug|Win32
+		{91234FFF-A024-4513-99EE-AADADB4354D4}.Release|x64.ActiveCfg = Release|x64
+		{91234FFF-A024-4513-99EE-AADADB4354D4}.Release|x64.Build.0 = Release|x64
+		{91234FFF-A024-4513-99EE-AADADB4354D4}.Release|x86.ActiveCfg = Release|Win32
+		{91234FFF-A024-4513-99EE-AADADB4354D4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
