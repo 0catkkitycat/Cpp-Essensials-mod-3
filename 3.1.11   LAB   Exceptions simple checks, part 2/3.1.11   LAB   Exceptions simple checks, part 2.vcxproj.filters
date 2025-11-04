@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="3.1.10   LAB   Exceptions simple checks.cpp">
+    <None Include="3.1.11   LAB   Exceptions simple checks" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="part 2.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
