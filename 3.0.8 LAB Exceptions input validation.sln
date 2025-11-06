@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.1.11   LAB   Exceptions s
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.2.16   LAB   Exceptions file checks", "3.2.16   LAB   Exceptions file checks\3.2.16   LAB   Exceptions file checks.vcxproj", "{E1A3276D-9256-4E0A-83C3-D2C2C5C18731}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.2.17   LAB   Exceptions checking strings", "3.2.17   LAB   Exceptions checking strings\3.2.17   LAB   Exceptions checking strings.vcxproj", "{C7B68A62-4E49-454A-8911-84BD3EABF401}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{E1A3276D-9256-4E0A-83C3-D2C2C5C18731}.Release|x64.Build.0 = Release|x64
 		{E1A3276D-9256-4E0A-83C3-D2C2C5C18731}.Release|x86.ActiveCfg = Release|Win32
 		{E1A3276D-9256-4E0A-83C3-D2C2C5C18731}.Release|x86.Build.0 = Release|Win32
+		{C7B68A62-4E49-454A-8911-84BD3EABF401}.Debug|x64.ActiveCfg = Debug|x64
+		{C7B68A62-4E49-454A-8911-84BD3EABF401}.Debug|x64.Build.0 = Debug|x64
+		{C7B68A62-4E49-454A-8911-84BD3EABF401}.Debug|x86.ActiveCfg = Debug|Win32
+		{C7B68A62-4E49-454A-8911-84BD3EABF401}.Debug|x86.Build.0 = Debug|Win32
+		{C7B68A62-4E49-454A-8911-84BD3EABF401}.Release|x64.ActiveCfg = Release|x64
+		{C7B68A62-4E49-454A-8911-84BD3EABF401}.Release|x64.Build.0 = Release|x64
+		{C7B68A62-4E49-454A-8911-84BD3EABF401}.Release|x86.ActiveCfg = Release|Win32
+		{C7B68A62-4E49-454A-8911-84BD3EABF401}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
